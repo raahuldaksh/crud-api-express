@@ -1,4 +1,4 @@
-# Day 3 — Backend Practice API
+## Backend Practice API
 
 This is a beginner backend practice project built with Node.js and Express. Its purpose is to learn how an API receives JSON requests and uses routes for create, read, update, and delete operations. Postman was used to try the endpoints and inspect their responses. This mini-project is for learning, not production use.
 
